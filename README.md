@@ -1,7 +1,7 @@
 # 🛠️ **SpyMC Hosting**  
 🚀 *Powerful, reliable, and easy-to-use Minecraft hosting by SeniorNetwork.*  
 
-![SpyHosting.xyz](https://www.spymc.xyz/hosting)  
+[SpyHosting](https://www.spymc.xyz/hosting)  
 
 ---
 
