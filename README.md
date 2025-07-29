@@ -46,13 +46,7 @@ We offer **affordable plans** for every type of Minecraft server.
 
 ### 📂 **Step 3: Uploading Worlds & Plugins**  
 🔹 Use **SFTP or the File Manager** to upload files  
-🔹 Restart your server to apply changes  
-
----
-
-## 🎁 **Partnerships & Discounts**  
-💰 **GET 25% OFF** on Streamline Servers with promo code **"SpyMC"**  
-🔗 [Streamline Servers](https://streamline-servers.com)  
+🔹 Restart your server to apply changes   
 
 ---
 
